@@ -1,3 +1,5 @@
+![Alt text](/Host-an-html-website.png.png)
+
 # DevOps Project: Hosting an HTML Website on AWS
 
 This project demonstrates hosting a static HTML website on an EC2 instance using AWS services. The deployment leverages a straightforward setup with default AWS configurations and automation scripts. Below are the details of the implementation and instructions to reproduce the setup.
